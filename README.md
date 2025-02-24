@@ -5,8 +5,6 @@
 
 **Latent Generative Modeling** | **Human-Robot Interaction** | **Responsible AI**
 
----
-
 ## 👨🔬 About Me
 I am a Research Associate at [ISIR](https://www.isir.upmc.fr/) (Institute of Intelligent Systems and Robotics), Sorbonne Université, where I conduct cutting-edge research in machine learning as part of the ACIDE team. My work focuses on developing probabilistic deep learning architectures for human-centered AI applications, with particular emphasis on interpretable generative models and trustworthy human-robot collaboration frameworks.
 
