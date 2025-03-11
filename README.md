@@ -18,7 +18,7 @@ I am a Research Associate at [ISIR](https://www.isir.upmc.fr/) (Institute of Int
 
 ## 🌍 Research Collaborations
 I've had the privilege to collaborate with leading research groups at:  
-🔬 **Orange Labs** | 🦉 **Cornell University** | 🍁 **McGill University** | 🤖 **Microsoft AI Research Amsterdam**
+🟠 **Orange Labs** | 🦉 **Cornell University** | 🍁 **McGill University** | 🤖 **Microsoft AI Research Amsterdam**
 
 ## 🔍 Research Interests
 - Probabilistic deep learning & generative models
